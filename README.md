@@ -1,99 +1,99 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://ryUWUjinx.org/"><img src="https://media.discordapp.net/attachments/1130282473465593920/1257411062282715146/image.png?ex=66844ece&is=6682fd4e&hm=3f385c94f21e825fcefd8228d3be5f8e653afde51da1d287c60e9805c64e5d4f&=&format=webp&quality=lossless" alt="ryUWUjinx" width="150"></a>
   <br>
-  <b>Ryujinx</b>
+  <b>RyUWUjinx</b>
   <br>
-  <sub><sup><b>(REE-YOU-JINX)</b></sup></sub>
+  <sub><sup><b>(REE-UWU-JINX)</b></sup></sub>
   <br>
 </h1>
 
 <p align="center">
-  Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
-  This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
-  It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
+  ryUWUjinx is an open-souwce nintendo switch emuwatow, cweated bie gdkchan, wwitten in c#.
+   dis emuwatow aims at pwovidim excewwent accuwacie and pewfowmance, a usew-fwiendwie intewface and consistent buiwds.
+   it was wwitten fwom scwatch and devewopment on da pwoject began in septembew 2017.
+   ryUWUjinx is avaiwabwe on github undew da <a href="https://github.com/ryUWUjinx/ryUWUjinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
 </p>
 
 <p align="center">
-    <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
+    <a href="https://github.com/ryUWUjinx/ryUWUjinx/actions/workflows/release.yml">
+        <img src="https://github.com/ryUWUjinx/ryUWUjinx/actions/workflows/release.yml/badge.svg"
             alt="">
     </a>
-    <a href="https://crwd.in/ryujinx">
-        <img src="https://badges.crowdin.net/ryujinx/localized.svg"
+    <a href="https://crwd.in/ryUWUjinx">
+        <img src="https://badges.crowdin.net/ryUWUjinx/localized.svg"
             alt="">
     </a>
     <a href="https://discord.com/invite/VkQYXAZ">
-        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Ryujinx&logo=discord&logoColor=white"
+        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=ryUWUjinx&logo=discord&logoColor=white"
             alt="Discord">
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
+    <img src="https://raw.githubusercontent.com/ryUWUjinx/ryUWUjinx-Website/master/public/assets/images/shell.png">
 </p>
 
-## Compatibility
+## Compatibiwitie
 
-As of May 2024, Ryujinx has been tested on approximately 4,300 titles;
-over 4,100 boot past menus and into gameplay, with roughly 3,550 of those being considered playable.
+As of maie 2024, ryUWUjinx has been tested on appwoximatewie 4,300 titwes;
+ovew 4,100 boot past menus and into gamepway, with woughwie 3,550 of dose beim considewed pwayabwe.
 
-You can check out the compatibility list [here](https://github.com/Ryujinx/Ryujinx-Games-List/issues).
+You can check out da compatibiwitie wist [hewe](https://github.com/ryUWUjinx/ryUWUjinx-Games-List/issues).
 
-Anyone is free to submit a new game test or update an existing game test entry;
-simply follow the new issue template and testing guidelines, or post as a reply to the applicable game issue.
-Use the search function to see if a game has been tested already!
+Anyone is fwee to submit a new game test ow update an existim game test entwy;
+simpwie fowwowo da new issue tempwate and testim guidewines, ow post as a wepwie to da appwicabwe game issue.
+ use da seawch function to see if a game has been tested awweady!
 
 ## Usage
 
-To run this emulator, your PC must be equipped with at least 8GiB of RAM;
-failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
+To wun dis emuwatow, youw pc must be equipped with at weast 8gib of ram;
+faiwim to meet dis wequiwement maie wesuwt in a poow gamepwaie expewience ow unexpected cwashes.
 
-See our [Setup & Configuration Guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
+See ouw [setup & configuwation guide](https://github.com/ryUWUjinx/ryUWUjinx/wiki/ryUWUjinx-Setup-&-Configuration-Guide) on how to set up the emulator.
 
-For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wireless Guide
-](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide).
+Fow ouw locaw wiwewess (ldn) buiwds, see ouw [muwtipwayew: locaw pway/locaw wiwewess guide
+](https://github.com/ryUWUjinx/ryUWUjinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide).
 
-Avalonia UI comes with translations for various languages. See [Crowdin](https://crwd.in/ryujinx) for more information.
+Avawonia ui comes with twanswations fow vawious wanguages. See [cwowodin](https://crwd.in/ryUWUjinx) fow mowe infowmation.
 
-## Latest build
+## Latest buiwd
 
-These builds are compiled automatically for each commit on the master branch.
-While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
+Dese buiwds awe compiwed automaticawwie fow each commit on da mastew bwanch.
+ whiwe we stwive to ensuwe optimaw stabiwitie and pewfowmance pwiow to pushim an update, ouw automated buiwds **maie be unstabwe ow compwetewie bwoken**.
 
-If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/Ryujinx/Ryujinx/wiki/Changelog).
+If you want to see detaiws on updates to da emuwatow, you can visit ouw [changewog](https://github.com/ryUWUjinx/ryUWUjinx/wiki/Changelog).
 
-The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/download).
+Da watest automatic buiwd fow windowos, macos, and linux can be found on da [officiaw website](https://ryUWUjinx.org/download).
 
 ## Documentation
 
-If you are planning to contribute or just want to learn more about this project please read through our [documentation](docs/README.md).
+If you awe pwannim to contwibute ow just want to weawn mowe about dis pwoject pwease wead dwuff ouw [documentation](docs/README.md).
 
-## Building
+## Buiwdim
 
-If you wish to build the emulator yourself, follow these steps:
+If you wish to buiwd da emuwatow youwsewf, fowwowo dase steps:
 
 ### Step 1
 
-Install the [.NET 8.0 (or higher) SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
-Make sure your SDK version is higher or equal to the required version specified in [global.json](global.json). 
+Instaww da [.Net 8.0 (ow highew) sdk](https://dotnet.microsoft.com/download/dotnet/8.0).
+Make suwe youw sdk vewsion is highew ow equaw to da wequiwed vewsion specified in [gwobaw.json](global.json). 
 
 ### Step 2
 
-Either use `git clone https://github.com/Ryujinx/Ryujinx` on the command line to clone the repository or use Code --> Download zip button to get the files.
+Eidaw use `git clone https://github.com/ryUWUjinx/ryUWUjinx` on da command wine to cwone da wepositowie ow use code --> dowonwoad zip button to get da fiwes.
 
 ### Step 3
 
-To build Ryujinx, open a command prompt inside the project directory.
-You can quickly access it on Windows by holding shift in File Explorer, then right clicking and selecting `Open command window here`.
-Then type the following command: `dotnet build -c Release -o build`
-the built files will be found in the newly created build directory.
+To buiwd ryUWUjinx, open a command pwompt inside da pwoject diwectowie.
+ you can quickwie access it on windowos bie howdim shift in fiwe expwowew, dan wight cwickim and sewectim `Open command window here`.
+ den type da fowwowoim command: `dotnet build -c Release -o build`
+da buiwt fiwes wiww be found in da newwie cweated buiwd diwectowie.
 
-Ryujinx system files are stored in the `Ryujinx` folder.
-This folder is located in the user folder, which can be accessed by clicking `Open Ryujinx Folder` under the File menu in the GUI.
+ryUWUjinx system fiwes awe stowed in da `ryUWUjinx` fowdew.
+Dis fowdew is wocated in da usew fowdew, which can be accessed bie cwickim `Open ryUWUjinx Folder` undew da fiwe menu in da gui.
 
-## Features
+## Featuwes
 
 - **Audio**
 
@@ -102,49 +102,49 @@ This folder is located in the user folder, which can be accessed by clicking `Op
 
 - **CPU**
 
-  The CPU emulator, ARMeilleure, emulates an ARMv8 CPU and currently has support for most 64-bit ARMv8 and some of the ARMv7 (and older) instructions, including partial 32-bit support.
-  It translates the ARM code to a custom IR, performs a few optimizations, and turns that into x86 code.
-  There are three memory manager options available depending on the user's preference, leveraging both software-based (slower) and host-mapped modes (much faster).
-  The fastest option (host, unchecked) is set by default.
-  Ryujinx also features an optional Profiled Persistent Translation Cache, which essentially caches translated functions so that they do not need to be translated every time the game loads. 
-  The net result is a significant reduction in load times (the amount of time between launching a game and arriving at the title screen) for nearly every game.
-  NOTE: This feature is enabled by default in the Options menu > System tab.
-  You must launch the game at least twice to the title screen or beyond before performance improvements are unlocked on the third launch!
-  These improvements are permanent and do not require any extra launches going forward.
+  Da cpu emuwatow, armeiwweuwe, emuwates an armv8 cpu and cuwwentwie has suppowt fow most 64-bit armv8 and some of da armv7 (and owdew) instwuctions, incwudim pawtiaw 32-bit suppowt.
+   it twanswates da arm code to a custom ir, pewfowms a few optimizations, and tuwns dat into x86 code.
+   dewe awe dwee memowie managew options avaiwabwe dependim on da usew's pwefewence, wevewagim both softwawe-based (swowoew) and host-mapped modes (much fastew).
+   da fastest option (host, unchecked) is set bie defauwt.
+   ryUWUjinx awso featuwes an optionaw pwofiwed pewsistent twanswation cache, which essentiawwie caches twanswated functions so dat daie do not need to be twanswated evewie time da game woads. 
+   da net wesuwt is a significant weduction in woad times (da amount of time between waunchim a game and awwivim at da titwe scween) fow neawwie evewie game.
+   note: dis featuwe is enabwed bie defauwt in da options menu > system tab.
+   you must waunch da game at weast twice to da titwe scween ow beyond befowe pewfowmance impwovements awe unwocked on da diwd waunch!
+  dese impwovements awe pewmanent and do not wequiwe anie extwa waunches goim fowwawd.
 
 - **GPU**
 
-  The GPU emulator emulates the Switch's Maxwell GPU using either the OpenGL (version 4.5 minimum), Vulkan, or Metal (via MoltenVK) APIs through a custom build of OpenTK or Silk.NET respectively.
-  There are currently six graphics enhancements available to the end user in Ryujinx: Disk Shader Caching, Resolution Scaling, Anti-Aliasing, Scaling Filters (including FSR), Anisotropic Filtering and Aspect Ratio Adjustment.
-  These enhancements can be adjusted or toggled as desired in the GUI.
+  Da gpu emuwatow emuwates da switch's maxweww gpu usim eidaw da opengl (vewsion 4.5 minimum), vuwkan, ow metaw (via mowtenvk) apis dwuff a custom buiwd of opentk ow siwk.Net wespectivewie.
+   dewe awe cuwwentwie six gwaphics enhancements avaiwabwe to da end usew in ryUWUjinx: disk shadew caching, resowution scawing, anti-awiasing, scawim fiwtews (incwudim fsr), anisotwopic fiwtewim and aspect ratio adjustment.
+   dese enhancements can be adjusted ow toggwed as desiwed in da gui.
 
 - **Input**
 
-  We currently have support for keyboard, mouse, touch input, JoyCon input support, and nearly all controllers.
-  Motion controls are natively supported in most cases; for dual-JoyCon motion support, DS4Windows or BetterJoy are currently required.
-  In all scenarios, you can set up everything inside the input configuration menu.
+  We cuwwentwie have suppowt fow keyboawd, mouse, touch input, joycon input suppowt, and neawwie aww contwowwews.
+   motion contwows awe nativewie suppowted in most cases; fow duaw-joycon motion suppowt, ds4windowos ow bettewjoie awe cuwwentwie wequiwed.
+   in aww scenawios, you can set up evewythim inside da input configuwation menu.
 
 - **DLC & Modifications**
 
-  Ryujinx is able to manage add-on content/downloadable content through the GUI.
-  Mods (romfs, exefs, and runtime mods such as cheats) are also supported;
-  the GUI contains a shortcut to open the respective mods folder for a particular game.
+  RyUWUjinx is abwe to manage add-on content/dowonwoadabwe content dwuff da gui.
+   mods (womfs, exefs, and wuntime mods such as cheats) awe awso suppowted;
+  da gui contains a showtcut to open da wespective mods fowdew fow a pawticuwaw game.
 
 - **Configuration**
 
-  The emulator has settings for enabling or disabling some logging, remapping controllers, and more.
-  You can configure all of them through the graphical interface or manually through the config file, `Config.json`, found in the user folder which can be accessed by clicking `Open Ryujinx Folder` under the File menu in the GUI.
+  Da emuwatow has settings fow enabwim ow disabwim some wogging, wemappim contwowwews, and mowe.
+   you can configuwe aww of dam dwuff da gwaphicaw intewface ow manuawwie dwuff da config fiwe, `config.json`, found in da usew fowdew which can be accessed bie cwickim `open wyuwujinx fowdew` undew da fiwe menu in da gui.
 
 ## Contact
 
-If you have contributions, suggestions, need emulator support or just want to get in touch with the team, join our [Discord server](https://discord.com/invite/Ryujinx).
-You may also review our [FAQ](https://github.com/Ryujinx/Ryujinx/wiki/Frequently-Asked-Questions).
+If you have contwibutions, suggestions, need emuwatow suppowt ow just want to get in touch with da team, join ouw [discowd sewvew](https://discowd.com/invite/wyuwujinx).
+ you maie awso weview ouw [faq](https://github.com/ryUWUjinx/ryUWUjinx/wiki/Frequently-Asked-Questions).
 
 ## Donations
 
-If you'd like to support the project financially, Ryujinx has an active Patreon campaign.
+If you'd like to support the project financially, ryUWUjinx has an active Patreon campaign.
 
-<a href="https://www.patreon.com/ryujinx">
+<a href="https://www.patreon.com/ryUWUjinx">
     <img src="https://images.squarespace-cdn.com/content/v1/560c1d39e4b0b4fae0c9cf2a/1567548955044-WVD994WZP76EWF15T0L3/Patreon+Button.png?format=500w" width="150">
 </a>
 
