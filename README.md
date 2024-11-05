@@ -28,7 +28,7 @@
         <img src="https://badges.crowdin.net/ryUWUjinx/localized.svg"
             alt="">
     </a>
-    <a href="https://discord.com/invite/VkQYXAZ">
+    <a href="https://www.youtube.com/watch?v=ZzUsKizhb8o&list=PL_vkVwrwck3NJ9ajMQv7Y-DfX9gVAk5in">
         <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=ryUWUjinx&logo=discord&logoColor=white"
             alt="Discord">
     </a>
