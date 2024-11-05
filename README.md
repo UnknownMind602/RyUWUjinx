@@ -16,6 +16,14 @@
 </p>
 
 <p align="center">
+  On a more serious note Ryujinx has been officially discontinued as of oct 1st 2024.
+
+RyUWUjinx will stay on the current version is is based on and will continue to be developed.
+
+No further improvements will be made as of this time excluding UI and Logo changes!
+<br />
+
+<p align="center">
     <a href="https://github.com/ryUWUjinx/ryUWUjinx/actions/workflows/release.yml">
         <img src="https://github.com/ryUWUjinx/ryUWUjinx/actions/workflows/release.yml/badge.svg"
             alt="">
