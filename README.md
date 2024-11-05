@@ -34,7 +34,6 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/ryUWUjinx/ryUWUjinx-Website/master/public/assets/images/shell.png">
 </p>
 
 ## Compatibiwitie
