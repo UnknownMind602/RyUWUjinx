@@ -12,7 +12,6 @@
   ryUWUjinx is an open-souwce nintendo switch emuwatow, cweated bie gdkchan, wwitten in c#.
    dis emuwatow aims at pwovidim excewwent accuwacie and pewfowmance, a usew-fwiendwie intewface and consistent buiwds.
    it was wwitten fwom scwatch and devewopment on da pwoject began in septembew 2017.
-   ryUWUjinx is avaiwabwe on github undew da <a href="https://github.com/ryUWUjinx/ryUWUjinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
 <br />
 </p>
 
