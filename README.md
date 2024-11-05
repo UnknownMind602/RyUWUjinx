@@ -13,7 +13,14 @@
    dis emuwatow aims at pwovidim excewwent accuwacie and pewfowmance, a usew-fwiendwie intewface and consistent buiwds.
    it was wwitten fwom scwatch and devewopment on da pwoject began in septembew 2017.
    ryUWUjinx is avaiwabwe on github undew da <a href="https://github.com/ryUWUjinx/ryUWUjinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
-  <br />
+  
+On a more serious note Ryujinx has been officially discontinued as of oct 1st 2024.
+
+RyUWUjinx will stay on the current version is is based on and will continue to be developed.
+
+No further improvements will be made as of this time excluding UI and Logo changes!
+
+<br />
 </p>
 
 <p align="center">
