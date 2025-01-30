@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ryUWUjinx.org/"><img src="https://imgur.com/a/yo5O9pN" width="150"></a>
+  <a href="https://ryUWUjinx.org/"><img src="[https://imgur.com/a/yo5O9pN](https://cdn.discordapp.com/attachments/1320760791087185930/1332914569089388584/image.png?ex=679cebad&is=679b9a2d&hm=9317486f4894d70b65fd5cdce25cefb3d3a7b2cf4330860405fee46239a63a7e&)" width="150"></a>
   <br>
   <b>RyUWUjinx</b>
   <br>
